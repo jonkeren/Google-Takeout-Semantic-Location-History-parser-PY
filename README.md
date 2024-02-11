@@ -1,4 +1,4 @@
-# Google-Takeout-Semantic-Location-History-parser-PY
+# Google Takeout Semantic Location History parser PY
 Python script to parse the Semantic Location History files from Google Takeout, and create a CSV file from the data.
 The CSV file will contain the following data for each row: `locationConfidence, startTimestamp, endTimestamp, placeVisitImportance, placeVisitType, name, address, latitude, longitude, centerLat, centerLng, timezone, startTimestamp_local, endTimestamp_local, year, year_local, month, month_local, day, day_local, hour, hour_local, minute, minute_local, weekday, weekday_local, duration, duration_minutes`.
 
